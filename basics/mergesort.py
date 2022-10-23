@@ -1,5 +1,5 @@
 
-def debug_print(debug_msg=None, **kwargs):
+def debug_print(debug_msg=None, **kwargs): 
 
     if debug_msg:
         print(debug_msg)
